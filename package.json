@@ -1,0 +1,25 @@
+{
+  "name": "study-every-day",
+  "version": "1.0.0",
+  "description": "每天学习一个编程技巧",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuixiaorui/study-every-day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuixiaorui/study-every-day/issues"
+  },
+  "homepage": "https://github.com/cuixiaorui/study-every-day#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3"
+  }
+}

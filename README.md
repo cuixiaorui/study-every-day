@@ -8,3 +8,4 @@
 
 - [code-anatomy-chaining-reduce-for-loop](https://www.bilibili.com/video/BV1Qo4y1f7QK)
 - [get](https://www.bilibili.com/video/BV1Vp4y1b7cf)
+- [copy-array](https://www.bilibili.com/video/BV1aU4y1b7EJ/)

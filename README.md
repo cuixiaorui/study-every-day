@@ -6,6 +6,12 @@
 
 ## javascript
 
-- [code-anatomy-chaining-reduce-for-loop](https://www.bilibili.com/video/BV1Qo4y1f7QK)
+- [code-anatomy-chaining-reduce-for-loop](https://www.bilibili.com/video/BV1Qo4y1f7QK) 
+  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/code-anatomy-chaining-reduce-for-loop)
+  - [视频](https://www.bilibili.com/video/BV1Qo4y1f7QK)
 - [get](https://www.bilibili.com/video/BV1Vp4y1b7cf)
+  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/get)
+  - [视频](https://www.bilibili.com/video/BV1Vp4y1b7cf)
 - [copy-array](https://www.bilibili.com/video/BV1aU4y1b7EJ/)
+  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/copy-array)
+  - [视频](https://www.bilibili.com/video/BV1aU4y1b7EJ)

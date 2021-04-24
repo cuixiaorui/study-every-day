@@ -17,6 +17,6 @@
   - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/copy-array)
   - [视频](https://www.bilibili.com/video/BV1aU4y1b7EJ)
 
-- [compactObject]()
+- [compactObject](https://www.bilibili.com/video/bv14K4y1P7Ho)
   - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/compactObject)
-  - [视频:todo]()
+  - [视频](https://www.bilibili.com/video/bv14K4y1P7Ho)

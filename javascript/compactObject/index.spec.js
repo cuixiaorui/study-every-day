@@ -78,3 +78,45 @@ test("obj 内部嵌套的 array 类型内的 Falsy 也需要被过滤 ", () => {
     arr: [1, true, "a"],
   });
 });
+
+test("obj 内部嵌套的 object 类型为空 也需要被过滤 ", () => {
+  const obj = {
+    a: [null, false, "", true, 1, "a", {}],
+    b: {
+      j: 0,
+      k: false,
+      l: "a",
+      m: {},
+    },
+    c: {}
+  };
+
+  const result = compactObject(obj);
+  expect(result).toEqual({
+    "a": [true, 1, "a"],
+    "b": {
+      "l": "a"
+    }
+  });
+});
+
+test("obj 内部嵌套的 array 类型为空 也需要被过滤 ", () => {
+  const obj = {
+    a: [null, false, "", true, 1, "a", []],
+    b: {
+      j: 0,
+      k: false,
+      l: "a",
+      m: []
+    },
+    c: [],
+  };
+
+  const result = compactObject(obj);
+  expect(result).toEqual({
+    "a": [true, 1, "a"],
+    "b": {
+      "l": "a"
+    }
+  });
+});

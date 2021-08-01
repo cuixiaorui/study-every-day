@@ -1,22 +1,86 @@
 # study-every-day
 
-每天学习一个编程技巧
+记录每天的学习,共建良好的学习环境，一起进步
+## why
 
-每一个编程技巧练习都有对应的视频，可以点击链接进行学习
+我一直有个习惯，是坚持每天提交 git commit ，用这样打卡的方式来促进学习，让自己每天都敲一点代码或者学习一些新的知识。
 
-## javascript
+而且也一直在做 b站, 后来突然想到这两个点是可以结合起来的：每日学习+b站
 
-- [code-anatomy-chaining-reduce-for-loop](https://www.bilibili.com/video/BV1Qo4y1f7QK)
-  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/code-anatomy-chaining-reduce-for-loop)
-  - [视频](https://www.bilibili.com/video/BV1Qo4y1f7QK)
-- [get](https://www.bilibili.com/video/BV1Vp4y1b7cf)
-  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/get)
-  - [视频](https://www.bilibili.com/video/BV1Vp4y1b7cf)
-- [copy-array](https://www.bilibili.com/video/BV1aU4y1b7EJ/)
+而形式是每天抽出一个小时学习，并且把这个学习的过程在 b站直播
 
-  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/copy-array)
-  - [视频](https://www.bilibili.com/video/BV1aU4y1b7EJ)
+这样对我自己来讲的话会有很多的好处，比如：
 
-- [compactObject](https://www.bilibili.com/video/bv14K4y1P7Ho)
-  - [代码](https://github.com/cuixiaorui/study-every-day/tree/main/javascript/compactObject)
-  - [视频](https://www.bilibili.com/video/bv14K4y1P7Ho)
+1. 高效
+   - 在直播的过程的时候，因为你会感觉有人在看你，所以会高度的集中，特别的聚焦，那么效率自然会特别高
+
+2. 积极的反馈
+   - 在学习的过程中，你总结的好不好，弹幕会告诉你，在写应用的时候出现问题了，弹幕也会实时的告诉的。
+   - 积极的反馈是培养学习兴趣的重点，这个也是在直播的时候可以反馈出来的
+
+对于大家来讲也会有很多好处，比如：
+1. 学习氛围
+   - 学习是需要一个好的环境的，而在直播间里面你会发现有好多人每天都在学习，都在进步，这个对于你来说是有特别好的促进
+   - 交流群，大家可以在交流群里面对今日的学习做各种沟通
+2. 开阔眼界
+   1. 平时看的基本上是源码或者是一些高阶的知识, 是大多数初中级前端接触不到的知识点
+3. 提高学习热情和积极性
+
+下面是我在交流群和大家收集到的信息：
+
+TODO
+
+所以我坚信直播分享学习是个正确的事，是一个有意义的事，所以我准备把它作为项目来进行维护，一直坚持做下去
+> 毕竟做程序员就要有"做到老学到老"的思想觉悟
+## how
+
+形式是以直播的形式来分享我自己的学习过程
+
+地点： b站直播
+时间： 晚上九点
+
+不一定是每天就直播，因为有可能会有工作和直播时间冲突，所以直播的时候我都会在交流群进行通知
+
+每天的任务点会以 issues 的方式创建并记录
+
+然后会把每日的收获写到当日的 issue 内
+> 希望你可以和我一起
+
+直播的内容不限制，这个其实一般是按照我自己的习惯和规划来的，目前基本两块内容：
+- 看源码 
+  - 找一些特别有意思的项目来看看他们的实现原理
+- 写应用
+  - 基于需求去写应用，比如 bilibili-app 这个项目就是基于需求产出的
+
+## 产出
+- [bilibili-app]()
+  - 因为在直播的时候在页面里面看弹幕不方便，所以我们直播的时候写的一个应用，可以方便我们看弹幕
+
+- 看 petite-vue 源码
+  - TODO 贴个脑图
+  - TODO 后续会把学习到的内容以文章的形式发表到我的公众号上（公众号：阿崔cxr）
+
+
+## 你还可以收获什么？
+
+除了我上面说到的那些关于学习上的好处的话，你还可以直接的参与到我的项目里面来
+
+比如：
+- 你可以提交 issues 来分享和提出你对这个项目的意见和建议
+  - 参与进来，共同做好这件事
+- 你可以提交代码来优化我们产出的内容
+  - 比如 bilibili-app 应用里面的样式逻辑就是小伙伴们提交的代码
+
+
+## 如何进交流群
+1. 添加我的公众号：阿崔cxr
+2. 回复 “vx”，添加我的 vx ，我拉你进群
+> 文章之类的产出都会第一时间发表到我的公众号上
+
+## 如何收到直播通知
+- [b站](https://space.bilibili.com/175301983)
+
+关注 b站，直播的时候会有通知
+
+> 除了直播的内容，我也会每周更新有趣好玩高质量的干货内容
+

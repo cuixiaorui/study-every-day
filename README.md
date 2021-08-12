@@ -53,7 +53,7 @@ TODO
   - 基于需求去写应用，比如 bilibili-app 这个项目就是基于需求产出的
 
 ## 产出
-- [bilibili-app]()
+- [bilibili-app](https://github.com/cuixiaorui/bilibili-app)
   - 因为在直播的时候在页面里面看弹幕不方便，所以我们直播的时候写的一个应用，可以方便我们看弹幕
 
 - 看 petite-vue 源码

@@ -10,6 +10,6 @@ jobs:
       - name: create daily plan issue action step
         uses: cuixiaorui/create-daily-plan-issue@main
         env:
-          TOKEN: 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
+          TOKEN: ${{ secrets.TOKEN }}
         with:
           token: ${{env.TOKEN}}

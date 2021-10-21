@@ -9,5 +9,7 @@ jobs:
         uses: actions/checkout@v2
       - name: create daily plan issue action step
         uses: cuixiaorui/create-daily-plan-issue@main
+        env:
+          TOKEN: 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
         with:
-          token: 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
+          token: ${{env.TOKEN}}

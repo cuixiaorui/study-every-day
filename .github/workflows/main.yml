@@ -10,4 +10,4 @@ jobs:
       - name: create daily plan issue action step
         uses: cuixiaorui/create-daily-plan-issue@main
         with:
-          token: ${{ sed.token }}
+          token: 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

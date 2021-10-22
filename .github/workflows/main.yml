@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '0 5 * * *'  
+    - cron:  '30 5 * * *'  
 
 jobs:
   create_daily_plan_issue:

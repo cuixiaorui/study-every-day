@@ -1,6 +1,6 @@
 # 第一期
 
-学习内容： 从零开始刷 ts
+学习内容： [从零开始刷 ts](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 时间： 从十一月一日到十一月四日，每天九点半开始，十一点结束。
 

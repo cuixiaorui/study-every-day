@@ -20,7 +20,7 @@
 | 清平&乘锦        |                         |                         |                         |
 | wk               |                         |                         |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |                         |                         |
-| 小 c             |                         |                         |                         |
+| 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |                         |                         |
 | coboy            |                         |                         |                         |
 | 贾宝玉登陆诺曼底 |                         |                         |                         |
 | hi 十五          |                         |                         |                         |

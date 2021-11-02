@@ -19,7 +19,7 @@
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |                         |                         |
 | 清平&乘锦        |                         |                         |                         |
 | wk               |                         |                         |                         |
-| Stone L          |                         |                         |                         |
+| Stone L          |https://juejin.cn/post/7025787233131036686  |                         |                         |
 | 小 c             |                         |                         |                         |
 | coboy            |                         |                         |                         |
 | 贾宝玉登陆诺曼底 |                         |                         |                         |

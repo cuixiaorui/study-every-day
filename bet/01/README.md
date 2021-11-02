@@ -16,7 +16,7 @@
 | 小张             | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 |
 | 良友             |                         |                         |                         |
 | 末班车           |                         |                         |                         |
-| 小胖~            |                         |                         |                         |
+| 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |                         |                         |
 | 清平&乘锦        |                         |                         |                         |
 | wk               |                         |                         |                         |
 | Stone L          |                         |                         |                         |

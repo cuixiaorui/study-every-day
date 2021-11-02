@@ -31,7 +31,7 @@
 | GU0FORY1         |                         |                         |                         |
 | Lo               |                         |                         |                         |
 | 多一点宠爱叭 🤗  |                         |                         |                         |
-| Pineapple        | https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/index.md |                         |                         |
+| Pineapple        | [第一天整理](https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/day-one.md) | [第二天整理](https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/day-two.md) |                         |
 | 孙源             |                         |                         |                         |
 | 明明就           |                         |                         |                         |
 | Miaqu            |                         |                         |                         |

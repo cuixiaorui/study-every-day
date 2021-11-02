@@ -28,7 +28,7 @@
 | 阿磊 🤫          |                         |                         |                         |
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
-| GU0FORY1         |                         |                         |                         |
+| GU0FORY1         | [github](https://github.com/GU0FORY1/Bet)      |                         |                         |
 | Lo               | [第一天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day01/day01.md)                        |                         |                         |
 | 多一点宠爱叭 🤗  |                         |                         |                         |
 | Pineapple        | https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/index.md |                         |                         |

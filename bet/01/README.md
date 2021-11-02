@@ -23,7 +23,7 @@
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |                         |                         |
 | coboy            |                         |                         |                         |
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |
-| hi 十五          |                         |                         |                         |
+| hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         |                         |                         |
 | Dylight          |                         |                         |                         |
 | 阿磊 🤫          |                         |                         |                         |
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |

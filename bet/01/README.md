@@ -32,7 +32,7 @@
 | Lo               | [第一天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day01/day01.md)                        |                         |                         |
 | 多一点宠爱叭 🤗  |                         |                         |                         |
 | Pineapple        | https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/index.md |                         |                         |
-| 孙源             |                         |                         |                         |
+| 孙源             | https://juejin.cn/post/7025937532038676487/ |                         |                         |
 | 明明就           |                         |                         |                         |
 | Miaqu            |  https://github.com/quyapeng/ts-mia                       |                         |                         |
 | ～               |  [blancokitsune/demo-ts (github.com)](https://github.com/blancokitsune/demo-ts)                       |                         |                         |

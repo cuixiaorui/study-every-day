@@ -17,7 +17,7 @@
 | 良友             |                         |                         |                         |
 | 末班车           | https://github.com/qinran0423/ts-learn                         |                         |                         |
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |                         |                         |
-| 清平&乘锦        |                         |                         |                         |
+| 清平&乘锦        | https://juejin.cn/post/7025890464448380936/                        |                         |                         |
 | wk               |                         |                         |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |                         |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |                         |                         |

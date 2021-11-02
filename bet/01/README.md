@@ -35,6 +35,6 @@
 | 孙源             | https://juejin.cn/post/7025937532038676487/ |                         |                         |
 | 明明就           | https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html                        |                         |                         |
 | Miaqu            |  https://github.com/quyapeng/ts-mia                       |                         |                         |
-| ～               |  [blancokitsune/demo-ts (github.com)](https://github.com/blancokitsune/demo-ts)                       |                         |                         |
+| ～               |  [typescript基础类型](https://github.com/blancokitsune/demo-ts)                   | [typescript类型应用](https://github.com/blancokitsune/demo-ts) |                         |
 | 一只废柴柴        |   红包已发                      |                         |                         |
 | 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | | |

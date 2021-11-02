@@ -24,7 +24,7 @@
 | coboy            | [催学社TS对赌学习day1](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day1.md)                        |                         |                         |
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |
 | hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         |                         |                         |
-| Dylight          |                         |                         |                         |
+| Dylight          |    红包已发                     |                         |                         |
 | 阿磊 🤫          |  https://www.wolai.com/kgRm3eM6B1NwmkK3DpKT5b?theme=dark                         |                         |                         |
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |

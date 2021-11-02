@@ -24,7 +24,7 @@
 | hi 十五          |                         |                         |                         |
 | Dylight          |                         |                         |                         |
 | 阿磊 🤫          |                         |                         |                         |
-| 🎃               |                         |                         |                         |
+| 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md |                         |                         |
 | 让心灵去旅行     |                         |                         |                         |
 | GU0FORY1         |                         |                         |                         |
 | Lo               |                         |                         |                         |

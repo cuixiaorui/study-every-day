@@ -14,7 +14,7 @@
 | 姓名             | 第一天               | 第二天           | 第三天           |
 | ---------------- | ----------------------- | ----------------------- | ----------------------- |
 | 小张             | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 |
-| 良友             |                         |                         |                         |
+| 良友             | https://github.com/chenbowu/study |                         |                         |
 | 末班车           | https://github.com/qinran0423/ts-learn                         |                         |                         |
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |                         |                         |
 | 清平&乘锦        | https://juejin.cn/post/7025890464448380936/                        |                         |                         |

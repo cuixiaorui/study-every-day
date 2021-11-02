@@ -34,7 +34,7 @@
 | Pineapple        | https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/index.md |                         |                         |
 | 孙源             |                         |                         |                         |
 | 明明就           |                         |                         |                         |
-| Miaqu            |                         |                         |                         |
+| Miaqu            |  https://github.com/quyapeng/ts-mia                       |                         |                         |
 | ～               |  [blancokitsune/demo-ts (github.com)](https://github.com/blancokitsune/demo-ts)                       |                         |                         |
 | 一只废柴柴        |                         |                         |                         |
 | 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | | |

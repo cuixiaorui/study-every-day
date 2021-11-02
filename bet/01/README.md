@@ -38,3 +38,4 @@
 | ～               |  [blancokitsune/demo-ts (github.com)](https://github.com/blancokitsune/demo-ts)                       |                         |                         |
 | 一只废柴柴        |                         |                         |                         |
 | 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | | |
+| Jason | [掘金](https://juejin.cn/post/7025953407961661447) | | |

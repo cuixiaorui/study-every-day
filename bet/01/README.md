@@ -37,4 +37,4 @@
 | Miaqu            |                         |                         |                         |
 | ～               |                         |                         |                         |
 | 一只废柴柴        |                         |                         |                         |
-| 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | | |
+| 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | [demo](https://github.com/yd160513/learn-ts) | |

@@ -25,7 +25,7 @@
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |
 | hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         |                         |                         |
 | Dylight          |                         |                         |                         |
-| 阿磊 🤫          |                         |                         |                         |
+| 阿磊 🤫          |  https://www.wolai.com/kgRm3eM6B1NwmkK3DpKT5b?theme=dark                         |                         |                         |
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
 | GU0FORY1         | [github](https://github.com/GU0FORY1/Bet)      |                         |                         |

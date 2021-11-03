@@ -26,7 +26,7 @@
 | hi 十五          |                         |                         |                         |
 | Dylight          |                         |                         |                         |
 | 阿磊 🤫          |                         |                         |                         |
-| 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |
+| 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        | https://github.com/pumpkin-zhang/4days-ts/blob/main/doc/TypeScript%20%E6%96%87%E6%A1%A3%E7%AE%80%E4%BB%8B.md |                         |
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
 | GU0FORY1         |                         |                         |                         |
 | Lo               | [第一天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day01/day01.md)                        |                         |                         |

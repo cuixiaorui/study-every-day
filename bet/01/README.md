@@ -17,7 +17,7 @@
 | 良友             | https://github.com/chenbowu/study |                         |                         |
 | 末班车           | https://github.com/qinran0423/ts-learn                         |                         |                         |
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |                         |                         |
-| 清平&乘锦        | https://juejin.cn/post/7025890464448380936/                        |                         |                         |
+| 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |                         |
 | wk               |     红包已发                    |                         |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |                         |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |                         |                         |

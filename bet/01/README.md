@@ -15,13 +15,13 @@
 | ---------------- | ----------------------- | ----------------------- | ----------------------- |
 | 小张             | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 |
 | 良友             | https://github.com/chenbowu/study |                         |                         |
-| 末班车           | https://github.com/qinran0423/ts-learn                         |                         |                         |
+| 末班车           | https://github.com/qinran0423/ts-learn                         |  https://github.com/qinran0423/ts-learn/tree/master/02                        |                         |
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |    [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/02)                     |                         |
 | 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |                         |
 | wk               |     红包已发                    |                         |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |  https://juejin.cn/post/7026166743869423652                       |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |      https://github.com/qc-z/ts-note/blob/master/docs/note2.md                   |                         |
-| coboy            | [催学社TS对赌学习day1](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day1.md)                        |                         |                         |
+| coboy            | [催学社TS对赌学习day1](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day1.md)                        |     [催学社TS对赌学习day2](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day2.md)                    |                         |
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |
 | Dylight          |    红包已发                     |      https://candy-way-e26.notion.site/ts-02-525bf719c27f4ab68e748c7efdc57fcd                |                         |
 | hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         | [掘金](https://juejin.cn/post/7026266825600172045) [github](https://github.com/xyz-fish/learn-ts-re/blob/main/day-two/README.md)                        |                         |
@@ -29,10 +29,11 @@
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
 | GU0FORY1         | [01](https://github.com/GU0FORY1/Bet)  | [02](https://github.com/GU0FORY1/Bet) |                         |
+| 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |      https://dengshen.cf/day2-edfb81c4c51e4234bd10ddb64b1497d7                   |                         |
 | Lo               | [第一天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day01/day01.md)                        |    [第二天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day02/day02.md)                     |                         |
-| 多一点宠爱叭 🤗  |  [TypeScript](https://www.showdoc.com.cn/1542925390298387/7402822835305926) 密码：183153                |                         |                         |
+| 多一点宠爱叭 🤗  |  [TypeScript Day1](https://www.showdoc.com.cn/1542925390298387/7402822835305926) 密码：183153                  |      [TypeScript Day2](https://www.showdoc.com.cn/1542925390298387/7402822835305926) 密码：183153                    |                         |
 | Pineapple        |  [第一天整理](https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/day-one.md) | [第二天整理](https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/day-two.md)                        |                         |
-| 孙源             | https://juejin.cn/post/7025937532038676487/ |                         |                         |
+| 孙源             | [七天学习TypeScript（一）](https://juejin.cn/post/7025937532038676487/) | [七天学习TypeScript（二）](https://juejin.cn/post/7026302492623732773/) |                         |
 | 明明就           | [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html)                        | [TypeScript再探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%E5%86%8D%E6%8E%A2.html)                        |                         |
 | Miaqu            |  https://github.com/quyapeng/ts-mia                       |                         |                         |
 | ～               |  [typescript基础类型](https://github.com/blancokitsune/demo-ts)                   | [typescript类型应用](https://github.com/blancokitsune/demo-ts) |                         |

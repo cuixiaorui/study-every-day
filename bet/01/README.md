@@ -19,7 +19,7 @@
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |    [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/02)                     |                         |
 | 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |                         |
 | wk               |     红包已发                    |                         |                         |
-| Stone L          |https://juejin.cn/post/7025787233131036686  |                         |                         |
+| Stone L          |https://juejin.cn/post/7025787233131036686  |  https://juejin.cn/post/7026166743869423652                       |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |                         |                         |
 | coboy            | [催学社TS对赌学习day1](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day1.md)                        |                         |                         |
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |

@@ -17,7 +17,7 @@
 | 良友             | https://github.com/chenbowu/study |        红包已发                    |                       |
 | 末班车           | https://github.com/qinran0423/ts-learn                         |  https://github.com/qinran0423/ts-learn/tree/master/02                        |                         |
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |    [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/02)                     |                         |
-| 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |                         |
+| 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |
 | wk               |     红包已发                    |       红包已发                  |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |  https://juejin.cn/post/7026166743869423652                       |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |      https://github.com/qc-z/ts-note/blob/master/docs/note2.md                   |                         |
@@ -36,6 +36,6 @@
 | 孙源             | [七天学习TypeScript（一）](https://juejin.cn/post/7025937532038676487/) | [七天学习TypeScript（二）](https://juejin.cn/post/7026302492623732773/) |                         |
 | 明明就           | [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html)                        | [TypeScript再探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%E5%86%8D%E6%8E%A2.html)                        |                         |
 | Miaqu            |  [01](https://github.com/quyapeng/ts-mia)   |  [02](https://github.com/quyapeng/ts-mia/blob/main/02.index.ts)     |                         |
-| ～               |  [typescript基础类型](https://github.com/blancokitsune/demo-ts)                   | [typescript类型应用](https://github.com/blancokitsune/demo-ts) |                         |
+| ～               |  [typescript基础类型](https://github.com/blancokitsune/demo-ts)                   | [typescript类型应用](https://github.com/blancokitsune/demo-ts) | [typescript的Function进阶](https://github.com/blancokitsune/demo-ts) |
 | 一只废柴柴        |   红包已发                      |         https://juejin.cn/post/7026310839133011982                |                         |
 | 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | [demo](https://github.com/yd160513/learn-ts) | |

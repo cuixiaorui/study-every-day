@@ -25,7 +25,7 @@
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |
 | Dylight          |    红包已发                     |      https://candy-way-e26.notion.site/ts-02-525bf719c27f4ab68e748c7efdc57fcd                |                         |
 | hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         | [掘金](https://juejin.cn/post/7026266825600172045) [github](https://github.com/xyz-fish/learn-ts-re/blob/main/day-two/README.md)                        |                         |
-| 阿磊 🤫          |  https://www.wolai.com/kgRm3eM6B1NwmkK3DpKT5b?theme=dark                         |                         |                         |
+| 阿磊 🤫          |  https://www.wolai.com/kgRm3eM6B1NwmkK3DpKT5b?theme=dark                         |         https://www.wolai.com/kgRm3eM6B1NwmkK3DpKT5b?theme=dark                |                         |
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |  https://github.com/pumpkin-zhang/4days-ts/blob/main/doc/TypeScript%20%E6%96%87%E6%A1%A3%E7%AE%80%E4%BB%8B.md                       |                         |
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
 | GU0FORY1         | [01](https://github.com/GU0FORY1/Bet)  | [02](https://github.com/GU0FORY1/Bet) |                         |

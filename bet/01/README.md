@@ -1,9 +1,3 @@
-<!--
- * @Description: 
- * @Date: 2021-11-03 17:37:29
- * @LastEditTime: 2021-11-03 17:43:26
- * @FilePath: \study-every-day\bet\01\README.md
--->
 # 第一期
 
 学习内容： [从零开始刷 ts](https://www.typescriptlang.org/docs/handbook/intro.html)

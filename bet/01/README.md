@@ -27,7 +27,7 @@
 | hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         | [掘金](https://juejin.cn/post/7026266825600172045) [github](https://github.com/xyz-fish/learn-ts-re/blob/main/day-two/README.md)                        |                         |
 | 阿磊 🤫          |  https://www.wolai.com/kgRm3eM6B1NwmkK3DpKT5b?theme=dark                         |                         |                         |
 | 🎃               | https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md                        |                         |                         |
-| 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
+| 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |      https://dengshen.cf/day2-edfb81c4c51e4234bd10ddb64b1497d7                   |                         |
 | GU0FORY1         | [github](https://github.com/GU0FORY1/Bet)      |                         |                         |
 | Lo               | [第一天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day01/day01.md)                        |    [第二天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day02/day02.md)                     |                         |
 | 多一点宠爱叭 🤗  |  [TypeScript](https://www.showdoc.com.cn/1542925390298387/7402822835305926) 密码：183153                |                         |                         |

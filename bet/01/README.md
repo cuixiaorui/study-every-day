@@ -35,7 +35,7 @@
 | Pineapple        |  [第一天整理](https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/day-one.md) | [第二天整理](https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/day-two.md)                        |                         |
 | 孙源             | [七天学习TypeScript（一）](https://juejin.cn/post/7025937532038676487/) | [七天学习TypeScript（二）](https://juejin.cn/post/7026302492623732773/) |                         |
 | 明明就           | [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html)                        | [TypeScript再探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%E5%86%8D%E6%8E%A2.html)                        |                         |
-| Miaqu            |  https://github.com/quyapeng/ts-mia                       |                         |                         |
+| Miaqu            |  [01](https://github.com/quyapeng/ts-mia)   |  [02](https://github.com/quyapeng/ts-mia/blob/main/02.index.ts)     |                         |
 | ～               |  [typescript基础类型](https://github.com/blancokitsune/demo-ts)                   | [typescript类型应用](https://github.com/blancokitsune/demo-ts) |                         |
 | 一只废柴柴        |   红包已发                      |                         |                         |
 | 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | [demo](https://github.com/yd160513/learn-ts) | |

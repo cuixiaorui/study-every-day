@@ -21,7 +21,7 @@
 | wk               |     红包已发                    |                         |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |  https://juejin.cn/post/7026166743869423652                       |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |      https://github.com/qc-z/ts-note/blob/master/docs/note2.md                   |                         |
-| coboy            | [催学社TS对赌学习day1](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day1.md)                        |                         |                         |
+| coboy            | [催学社TS对赌学习day1](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day1.md)                        |     [催学社TS对赌学习day2](https://github.com/amebyte/typescript-study/blob/main/%E5%82%AC%E5%AD%A6%E7%A4%BETS%E5%AF%B9%E8%B5%8C%E5%AD%A6%E4%B9%A0day2.md)                    |                         |
 | 贾宝玉登陆诺曼底 | [仓库地址](https://github.com/whylost/learn-typescript)                        |                         |                         |
 | Dylight          |    红包已发                     |      https://candy-way-e26.notion.site/ts-02-525bf719c27f4ab68e748c7efdc57fcd                |                         |
 | hi 十五          | [掘金地址](https://juejin.cn/post/7025933995095359496)                         | [掘金](https://juejin.cn/post/7026266825600172045) [github](https://github.com/xyz-fish/learn-ts-re/blob/main/day-two/README.md)                        |                         |

@@ -33,7 +33,7 @@
 | 多一点宠爱叭 🤗  |  https://www.showdoc.com.cn/1542925390298387/7402822835305926        密码  183153                  |                         |                         |
 | Pineapple        | https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/index.md |                         |                         |
 | 孙源             | https://juejin.cn/post/7025937532038676487/ |                         |                         |
-| 明明就           | https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html                        |                         |                         |
+| 明明就           | [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html) | [TypeScript再探]([TypeScript 再探 \|DaybreakFang's Blog](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript再探.html)) |                         |
 | Miaqu            |  https://github.com/quyapeng/ts-mia                       |                         |                         |
 | ～               |  [blancokitsune/demo-ts (github.com)](https://github.com/blancokitsune/demo-ts)                       |                         |                         |
 | 一只废柴柴        |   红包已发                      |                         |                         |

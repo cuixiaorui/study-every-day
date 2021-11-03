@@ -30,7 +30,7 @@
 | 让心灵去旅行     |  https://dengshen.cf/day1-682fd9364b4b4e178e476d2fccb81290                       |                         |                         |
 | GU0FORY1         | [github](https://github.com/GU0FORY1/Bet)      |                         |                         |
 | Lo               | [第一天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day01/day01.md)                        |                         |                         |
-| 多一点宠爱叭 🤗  |  https://www.showdoc.com.cn/1542925390298387/7402822835305926        密码  183153                  |                         |                         |
+| 多一点宠爱叭 🤗  |  [TypeScript](https://www.showdoc.com.cn/1542925390298387/7402822835305926) 密码：183153                |                         |                         |
 | Pineapple        | https://github.com/Pineapple0919/typescript-systematic-learning/blob/main/docs/index.md |                         |                         |
 | 孙源             | https://juejin.cn/post/7025937532038676487/ |                         |                         |
 | 明明就           | https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html                        |                         |                         |

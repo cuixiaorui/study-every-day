@@ -37,5 +37,5 @@
 | 明明就           | [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%20%E5%88%9D%E6%8E%A2.html)                        | [TypeScript再探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%E5%86%8D%E6%8E%A2.html)                        |                         |
 | Miaqu            |  [01](https://github.com/quyapeng/ts-mia)   |  [02](https://github.com/quyapeng/ts-mia/blob/main/02.index.ts)     |                         |
 | ～               |  [typescript基础类型](https://github.com/blancokitsune/demo-ts)                   | [typescript类型应用](https://github.com/blancokitsune/demo-ts) |                         |
-| 一只废柴柴        |   红包已发                      |                         |                         |
+| 一只废柴柴        |   红包已发                      |         https://juejin.cn/post/7026310839133011982                |                         |
 | 阿豪阿卡阿甘 | [github](https://github.com/yd160513/learn-ts) | [demo](https://github.com/yd160513/learn-ts) | |

@@ -14,10 +14,10 @@
 | 姓名             | 第一天               | 第二天           | 第三天           |
 | ---------------- | ----------------------- | ----------------------- | ----------------------- |
 | 小张             | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 | 文章/视频/代码库 的链接 |
-| 良友             | https://github.com/chenbowu/study |        红包已发                    |                       |
+| 良友             | https://github.com/chenbowu/study |        红包已发                    | https://github.com/chenbowu/study/tree/master/code/ts/days03 |
 | 末班车           | https://github.com/qinran0423/ts-learn                         |  https://github.com/qinran0423/ts-learn/tree/master/02                        |                         |
 | 小胖~            | [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/01)  |    [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/02)                     |                         |
-| 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |                         |
+| 清平&乘锦        | [催学社TS对赌学习day1掘金](https://juejin.cn/post/7025890464448380936/) | [催学社TS对赌学习day2掘金](https://juejin.cn/post/7026265499742765086/)                       |                         |
 | wk               |     红包已发                    |       红包已发                  |                         |
 | Stone L          |https://juejin.cn/post/7025787233131036686  |  https://juejin.cn/post/7026166743869423652                       |                         |
 | 小 c             |https://github.com/qc-z/ts-note/blob/master/docs/note1.md                         |      https://github.com/qc-z/ts-note/blob/master/docs/note2.md                   |                         |

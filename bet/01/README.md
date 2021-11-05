@@ -128,7 +128,7 @@
 
   - 第四天
   
-  - [https://github.com/qc-z/ts-note/blob/master/docs/note3.md](https://github.com/qc-z/ts-note/blob/master/docs/note4.md)
+  - [https://github.com/qc-z/ts-note/blob/master/docs/note4.md](https://github.com/qc-z/ts-note/blob/master/docs/note4.md)
 ### coboy
 
   - 第一天

@@ -255,6 +255,7 @@
     - [https://dengshen.cf/day3-40e624770c9d4d6bb2de65e1687bcbbf](https://dengshen.cf/day3-40e624770c9d4d6bb2de65e1687bcbbf)
 
   - 第四天
+    - [https://dengshen.cf/day4-4f5e50a9142a48a597c309e8f201cf7d](https://dengshen.cf/day4-4f5e50a9142a48a597c309e8f201cf7d)
 
 ### Lo
 

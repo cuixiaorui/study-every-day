@@ -58,6 +58,9 @@
   - 第三天
 
     - [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/03)
+    
+  - 第四天
+    - [github地址](https://github.com/bigfatDone/tips/tree/master/typeScript/04) 
 
     
 

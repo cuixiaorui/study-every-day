@@ -321,7 +321,7 @@
 
   - 第一天
 
-    - [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript 初探.html)
+    - [TypeScript初探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%E5%88%9D%E6%8E%A2.html)
 
   - 第二天
 
@@ -332,6 +332,8 @@
     - [TypeScipt还探](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript还探.html)
 
   - 第四天
+  
+    - [TypeScript探为观止](https://daybreakfang.github.io/blogs/TypeScript/2021/TypeScript%E6%8E%A2%E4%B8%BA%E8%A7%82%E6%AD%A2.html)
 
 ### Miaqu
 

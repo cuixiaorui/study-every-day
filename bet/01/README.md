@@ -354,16 +354,14 @@
   - 第一天
 
     - [typescript基础类型](https://github.com/blancokitsune/demo-ts)
-
   - 第二天
 
     - [typescript类型应用](https://github.com/blancokitsune/demo-ts)
-
   - 第三天
 
-    - [typescript类型应用](https://github.com/blancokitsune/demo-ts)
-
+    - [typescript中Function应用](https://github.com/blancokitsune/demo-ts)
   - 第四天
+      - [typescript中Object应用](https://github.com/blancokitsune/demo-ts)
 
 ### 一只废柴柴
 

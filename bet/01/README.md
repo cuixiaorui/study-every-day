@@ -272,6 +272,7 @@
 
   - 第四天
 
+    - [第四天](https://github.com/LoTwT/ts-study-in-four-days/blob/master/day04/day04.md)
 ### 多一点宠爱叭 🤗
 
   - 第一天

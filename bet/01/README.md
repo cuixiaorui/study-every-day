@@ -209,11 +209,11 @@
 
   - 第一天
 
-    - [https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md](https://github.com/pumpkin-zhang/4days-ts/blob/main/day01 - 基础类型/day1.md)
+    - https://github.com/pumpkin-zhang/4days-ts/blob/main/day01%20-%20%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/day1.md
 
   - 第二天
 
-    - [https://github.com/pumpkin-zhang/4days-ts/blob/main/doc/TypeScript 文档简介.md](https://github.com/pumpkin-zhang/4days-ts/blob/main/doc/TypeScript 文档简介.md)
+    - https://github.com/pumpkin-zhang/4days-ts/blob/main/doc/TypeScript%20%E6%96%87%E6%A1%A3%E7%AE%80%E4%BB%8B.md
 
   - 第三天
 

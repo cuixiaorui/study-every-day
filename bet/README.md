@@ -49,3 +49,7 @@
 
 一起加油
 
+
+## 入口
+- [第一期](https://github.com/cuixiaorui/study-every-day/tree/main/bet/01)
+- [第二期] 
